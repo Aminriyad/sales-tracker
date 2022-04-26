@@ -1,0 +1,29 @@
+body{
+    font-family: arial;
+    min-width:100px;
+    max-height: 150px;
+}
+input{
+    padding:10px 10px 10px 10px;
+    width:100%;
+    box-sizing: border-box;
+    border:2px solid green;
+
+}
+button{
+    background-color:green;
+    padding: 10px 20px 10px 20px;
+}
+ul{
+    list-style: none;
+    padding-left: 0px;
+    margin-top: 20px;
+    
+}
+li{
+    text-decoration: none;
+    margin-top: 5px;
+}
+li  a{
+color: green;
+}
